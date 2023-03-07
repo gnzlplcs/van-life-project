@@ -1,8 +1,12 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div>Host Income here</div>
+    <div>
+      <h1>Host Dashboard here</h1>
+      <Outlet />
+    </div>
   )
 }
 
