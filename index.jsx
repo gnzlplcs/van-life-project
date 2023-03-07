@@ -27,7 +27,7 @@ function App() {
             <Route path="income" element={<Income />} />
             <Route path="reviews" element={<Reviews />} />
           </Route>
-          
+
         </Route>
       </Routes>
     </BrowserRouter>
