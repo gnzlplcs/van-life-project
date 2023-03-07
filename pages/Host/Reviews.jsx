@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reviews = () => {
   return (
-    <div>Host Reviews here</div>
+    <h1>Host Reviews here</h1>
   )
 }
 
