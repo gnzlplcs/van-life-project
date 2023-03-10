@@ -317,3 +317,9 @@ i[class*='van-type-'] {
   text-decoration: underline;
   font-weight: 600;
 }
+
+.active-link {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #161616;
+}
